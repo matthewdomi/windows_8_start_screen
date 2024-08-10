@@ -1,15 +1,15 @@
 const tiles = [
     {
-      id: 'facebook',
-      image: '/facebook.png',
-      title: 'Facebook',
-      backgroundColor: '#3b5998',
+    id: "facebook",
+    image: "/facebook.png",
+    title: "Facebook",
+    backgroundColor: "#3b5998",
     },
     {
       id: 'office',
       image: '/office.png',
       title: 'Office',
-      backgroundColor: '#d83b01',
+    backgroundColor: "#d83b01",
     },
     {
       id: 'weather',
